@@ -28,7 +28,7 @@
         android:layout_marginTop="104dp"
         android:background="@drawable/background"
         android:gravity="center"
-        android:text="오늘도 수고 많았어!"
+        android:text="오늘 하루도 수고 많았어!"
         android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.496"
