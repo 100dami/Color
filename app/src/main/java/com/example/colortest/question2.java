@@ -9,6 +9,6 @@ public class question2 extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.question2);
+        setContentView(R.layout.activity_question2);
     }
 }
